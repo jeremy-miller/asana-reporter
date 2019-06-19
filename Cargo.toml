@@ -1,0 +1,7 @@
+[package]
+name = "asana-reporter"
+version = "0.1.0"
+authors = ["Jeremy Miller <jgmiller88@gmail.com>"]
+edition = "2018"
+
+[dependencies]
